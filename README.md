@@ -104,5 +104,5 @@ dagit -f analysis_framework/pipeline/process.py
 - Main files `app.py` (panel serve requirements and layout components) and `base.py` (contains all the logic)
 - Command to trigger the dashboard (subject to change) - `python analysis_framework/dashboard/app.py`
 
-![Dashboard](https://user-images.githubusercontent.com/17350312/185426577-2786d20a-f50b-4a92-8f82-77385d748dd6.png)
+# ![Dashboard](https://user-images.githubusercontent.com/17350312/185426577-2786d20a-f50b-4a92-8f82-77385d748dd6.png)
 
